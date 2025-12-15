@@ -1,3 +1,8 @@
+## Autor
+- Nombre: Jonathan Cifuentes
+- Curso: Backend
+- Año: 2025
+- 
 \# API de Productos
 
 
@@ -139,3 +144,4 @@ Respuesta:
   "mensaje": "Producto eliminado correctamente"
 
 }
+
