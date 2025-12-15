@@ -5,37 +5,31 @@
 - 
 \# API de Productos
 
-
-
-API RESTful desarrollada con Node.js y Express que permite gestionar productos mediante operaciones CRUD.
-
-
+API Productos-CRUD desarrollada con Node.js y Express que permite gestionar productos mediante operaciones CRUD.
 
 \## Instalación
 
-1\. npm init -y
+1. Clonar el repositorio:
+git clone https://github.com/Jonypastoseco1234/API-Productos-CRUD.git
 
-2\. npm install express
+2. Ingresar al proyecto:
+cd API-Productos-CRUD
 
-3\. node index.js
+3. Instalar dependencias:
+npm install
 
-
+4. Ejecutar el servidor:
+node index.js
 
 Servidor: http://localhost:3000
 
-
-
 \## Endpoints
-
-
 
 \### GET - Listar productos
 
 !\[GET Productos](capturas/get_productos.png)
 
 GET /productos
-
-
 
 Respuesta:
 
@@ -144,6 +138,7 @@ Respuesta:
   "mensaje": "Producto eliminado correctamente"
 
 }
+
 
 
 
