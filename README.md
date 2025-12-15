@@ -31,7 +31,7 @@ Servidor: http://localhost:3000
 
 \### GET - Listar productos
 
-!\[GET Productos](capturas/get_productos.png)
+!\[GET Productos](capturas/GET_productos.png)
 
 GET /productos
 
@@ -144,4 +144,5 @@ Respuesta:
   "mensaje": "Producto eliminado correctamente"
 
 }
+
 
